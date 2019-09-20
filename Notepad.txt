@@ -1,0 +1,35 @@
+Nurse-
+Appointment(Name , race ,Email)
+Calender () , Scheduling page
+Patient list ( Family name, first name , DOB ,
+		 reg no , reg date , category 
+		,marital status , country , city 
+		, status, balance amount, Actions)
+Add patient option
+
+Patient registration(Patientno.,first name , Last name , Birth date , Place of birth , sex
+			Maritial status, country , Region , city , occupation , company
+			, Permanent address , mobile , E-mail ,Insurance(y/n), Insurance company , Insurance code)
+Person to contact in case of emergency(Name , relation , contact no)
+Primary reason for visit ( Reason :, symptoms)
+
+Payment ( Amount to be paid , Paid , Balance , Mode of payment , date)
+
+Consultations ( Patient profile , Action button )
+Medical consultation ( Patient name , type of service, pattern , doctor , diagnosis , prescribed medicine
+			, decision taken, chronic disease ? , Delivery of drug(can add multiple))
+
+Exams( consultation summary , list of tests ,updation of test result which will appear in patient report )
+
+wards for inpatient hospitalizations
+Bednumber
+
+
+
+Patient- 
+My report
+Appointment
+Payment pending
+Login or registration
+
+
